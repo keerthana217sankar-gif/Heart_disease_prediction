@@ -198,8 +198,3 @@ This project is created for **educational and learning purposes only**.
 
 The dataset used is very small, and the model performance is not sufficient for medical decision-making. The predictions should not be used as a substitute for professional medical advice.
 
-## 👩‍💻 Author
-
-**Your Name**
-
-GitHub: `https://github.com/YOUR-USERNAME`
